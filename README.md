@@ -22,8 +22,14 @@
 
 5. Оператор `switch(choice)`:
    - `case 1`: вызов функции `task1()`.
-   - `case 2`: вызов функции `task1()`.
+   - `case 2`: вызов функции `task1A()`.
    - `case 3`: вызов функции `task2()`.
    - Если введено другое число, вывод сообщения «Нет такого пункта».
 
 6. **КОНЕЦ**
+# Блок схема
+<img width="1240" height="1268" alt="image" src="https://github.com/user-attachments/assets/160a4c39-a718-426e-80d9-2fae4e56c374" />
+# Результаты 
+<img width="616" height="250" alt="image" src="https://github.com/user-attachments/assets/06fca7c7-fcc1-4ed5-8016-e6193e364086" />
+<img width="943" height="1102" alt="image" src="https://github.com/user-attachments/assets/145501d5-a36d-4cfd-915d-f46baae668b6" />
+
