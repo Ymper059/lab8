@@ -27,7 +27,9 @@
    - Если введено другое число, вывод сообщения «Нет такого пункта».
 
 6. **КОНЕЦ**
+
 # Блок схема
+
 <img width="1240" height="1268" alt="image" src="https://github.com/user-attachments/assets/160a4c39-a718-426e-80d9-2fae4e56c374" />
 # Результаты 
 <img width="616" height="250" alt="image" src="https://github.com/user-attachments/assets/06fca7c7-fcc1-4ed5-8016-e6193e364086" />
